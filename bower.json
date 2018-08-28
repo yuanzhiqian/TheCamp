@@ -1,0 +1,20 @@
+{
+  "name": "TheCamp",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Yuan Zhiqian <on-your-mark@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/yuanzhiqian/TheCamp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
